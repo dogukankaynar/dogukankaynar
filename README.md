@@ -7,7 +7,7 @@ I'm a frontend developer and I'm trying to master JavaScript and React.
 
 ## Project
 
-- **[spotify-tsx](https://github.com/dogukankaynar/spotify-tsx)**: spotify clone with react/typescript
+- **[advanced media player](https://github.com/dogukankaynar/advanced-media-player)**: advanced-media-player with react/typescript
 - **[e-commerce](https://github.com/dogukankaynar/e-commerce)**: e-commerce app(under development) .
 - **[Translate-App-Responsive](https://github.com/dogukankaynar/Translate-App-Responsive)**: Turkish and English translation app .
 
