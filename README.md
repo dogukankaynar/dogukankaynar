@@ -31,3 +31,14 @@ I'm a frontend developer and I'm trying to master JavaScript and React.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doğukan-kaynar-44594221a//)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dogusk06)
 
+# My Awesome Project
+
+This is my awesome project. It is primarily written in the following languages:
+
+- JavaScript
+- HTML
+- CSS
+
+...
+
+
